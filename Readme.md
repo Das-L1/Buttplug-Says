@@ -69,4 +69,7 @@ python main.py
 ### Credits
 
 * **Google Fonts**: The title font **Bebas Neue** was sourced from [Google Fonts](https://fonts.google.com/specimen/Bebas+Neue).
+
 ```
+
+DISCLAIMER: Ai was used for debugging and better struckture / readability
