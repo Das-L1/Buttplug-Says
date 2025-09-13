@@ -1,0 +1,32 @@
+[
+  {
+
+    "type": "bluesky_post",
+    "name": "Post on Bluesky",
+    "duration": 60,
+    "post_text": "api test",
+    "bluesky_open": true
+  },
+  {
+  "type": "open_link",
+  "name": "Watch a funny cat video",
+  "duration": 20,
+  "link": "https://www.youtube.com/watch?v=jPh0D3BgbvU",
+  "window_title": "YouTube"
+},
+{
+  "type": "open_link",
+  "name": "Look up something random",
+  "duration": 15,
+  "link": "https://en.wikipedia.org/wiki/Special:Random",
+  "window_title": "Wikipedia"
+},
+{
+  "type": "open_link",
+  "name": "Check your vibes",
+  "duration": 30,
+  "link": "https://theuselessweb.com/",
+  "window_title": "The Useless Web"
+}
+
+]

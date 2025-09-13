@@ -1,0 +1,4 @@
+buttplug-py==0.2.0
+requests
+pyperclip
+pygetwindow
